@@ -25,8 +25,6 @@ The correlation is shown on a scale from **-100 to +100**, and the chart also di
 ### Required Python Packages
 
 Install the required packages using pip:
-
-```bash
 pip install MetaTrader5 pandas plotly
 
 
